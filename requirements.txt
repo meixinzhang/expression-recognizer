@@ -1,0 +1,6 @@
+ipdb
+ipython
+pandas
+python-dotenv
+python-decouple
+
