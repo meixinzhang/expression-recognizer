@@ -1,7 +1,7 @@
-Sample Python Data Science Project
+Facial Expression Recognition
 ==============================
 
-A starting point for all data science projects.
+Explore and analyze facial expression from photos.
 
 Getting Started
 ------------
