@@ -74,7 +74,7 @@ target/
 
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
-*.ipynb
+#*.ipynb
 
 # exclude data from source control by default
 /cache/
