@@ -1,7 +1,7 @@
 Possible Dataset to Expand the Model
 -----
 
-We have considered the following dataset to conduct our research, we are currently only using the open dataset from KAggle, however, some of the following datasets 
+We have considered the following dataset to conduct our research, we are currently only using the open dataset from Kaggle. However, some of the following datasets 
 can be used if we want to expand our model and more data is required.
 
 | Database Name  | Samples | Expression distribution | URL | Comments  |
