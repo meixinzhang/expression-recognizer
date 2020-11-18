@@ -2,17 +2,8 @@ Facial Expression Recognition
 ==============================
 
 We are exploring different models to accuratly identify facial expressions from photos. 
-
-The expressions are limited to be finite classes, particularly, to the six basic emotions plus neutral
-- Angry
-- Discust
-- Fear
-- Happy
-- Sad
-- Surprised
-- Neutral
-
 This repo stores the scripts that implement KNN and CNN to extract facial expression from photos.
+
 All of the models in this repo are trained, validated, and testing using images and category from the Kaggle Challenge, [Challenges in Representation Learning: Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
  - More relevant datasets can be found [here](./references/dataSource.md)
 
