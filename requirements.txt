@@ -1,6 +1,13 @@
 ipdb
 ipython
+keras
+matplotlib
 pandas
 python-dotenv
 python-decouple
+scikit-image
+scikit-learn
+seaborn
+setuptools
+tensorflow
 
