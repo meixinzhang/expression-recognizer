@@ -9,7 +9,7 @@ All of the models in this repo are trained, validated, and testing using images 
  - More relevant datasets can be found [here](./references/dataSource.md)
 
 
-The full research paper can be found in the [reports folder](./reports).
+The full research paper can be found in the [reports folder](./reports/Facial_Expression_Recognition.pdf).
 
 A demo video can be found on [youtube](https://www.youtube.com/watch?v=pOBW6bYQvJ8&ab_channel=MeixinZhang).
 
