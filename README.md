@@ -11,6 +11,8 @@ All of the models in this repo are trained, validated, and testing using images 
 
 The full research paper can be found in the [reports folder](./reports).
 
+A demo video can be found on [youtube](https://www.youtube.com/watch?v=pOBW6bYQvJ8&ab_channel=MeixinZhang).
+
 
 Getting Started
 ------------
